@@ -1,0 +1,3 @@
+jekyll new benim-sitem
+cd mirae
+bundle install
