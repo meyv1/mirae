@@ -1,0 +1,38 @@
+/* Genel Sayfa Stili */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+/* Başlık Stili */
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+}
+
+/* İçerik Bölümü */
+.content {
+  margin: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+  margin-top: 20px;
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+
+
+
+
+
+  
